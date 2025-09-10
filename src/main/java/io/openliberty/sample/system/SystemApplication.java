@@ -8,6 +8,7 @@
  *
  * SPDX-License-Identifier: EPL-2.0
  *******************************************************************************/
+
 // end::copyright[]
 package io.openliberty.sample.system;
 
